@@ -8,6 +8,8 @@ This repo uses the standard `skills/` layout expected by `skills` CLI:
 
 ```text
 skills/
+  gitlab-mr-review/
+    SKILL.md
   jira-ticket-workflow/
     SKILL.md
 ```
@@ -20,7 +22,7 @@ Install this repo to one or more agents from GitHub:
 npx skills add b1uesky/agent-skills
 ```
 
-Install only the JIRA workflow skill to selected agents:
+Install only a specific skill to selected agents:
 
 ```bash
 npx skills add b1uesky/agent-skills \
