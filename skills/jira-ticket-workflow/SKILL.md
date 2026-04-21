@@ -102,9 +102,9 @@ MR body template:
 ## Changes
 [DUNE-XXXX](https://cimpress-support.atlassian.net/browse/DUNE-XXXX)
 
-{- Previously, it works like this -}
+Previously, it works like this.
 
-{+ Currently, it works like that +}
+Currently, it works like that.
 
 ## Testing
 ### New unit tests
